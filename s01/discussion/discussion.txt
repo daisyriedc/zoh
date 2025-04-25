@@ -6,3 +6,4 @@ Topics in this ZOH:
 - Git
 - HTML
 - CSS
+- Javascript
